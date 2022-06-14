@@ -19,6 +19,7 @@ h3 {
   text-transform: uppercase;
   color: #111;
   text-align: center;
+  letter-spacing: 5px;
 }
 
 p {
@@ -69,4 +70,5 @@ p {
   padding: 18px;
   font-size: 25px;
   letter-spacing: 5px;
+  text-transform: uppercase;
 }
